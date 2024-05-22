@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: NoteBook
+heroText: CSNotebook
 tagline: 我在这里放置了整个项目的描述
 actions:
   - text: 使用指南
@@ -39,16 +39,17 @@ highlights:
        icon: clipboard-check
        details: 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
        link: https://xiaolincoding.com/
-    - header: 工具
-    description: 工具
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    features:
-      - title: JavaGuide
-        icon: clipboard-check
-        details: 「Java学习 + 面试指南」涵盖 Java 程序员需要掌握的核心知识
-        link: - header: Java
+  - header: 工具
+  description: 工具
+  image: /assets/image/box.svg
+  bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+  bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+  features:
+    - title: JavaGuide
+      icon: clipboard-check
+      details: 「Java学习 + 面试指南」涵盖 Java 程序员需要掌握的核心知识
+      link: https://xiaolincoding.com/
+  - header: Java
     description: 学习内容
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
